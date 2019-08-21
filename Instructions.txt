@@ -1,0 +1,4 @@
+-Instructions
+WSAD keys for movement
+spacebar or mouse1 to fire
+Survive as long as possible!
